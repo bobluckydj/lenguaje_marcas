@@ -1,0 +1,18 @@
+El siguiente JSON contiene varios errores: 
+{ 
+"nombre": "Laura" 
+"edad": 22, 
+"activo": verdadero, 
+"ciudad": "Valencia",
+}
+
+Encuentra y corrige todos los errores para que sea un JSON válido. 
+
+{ 
+"nombre": "Laura",
+"edad": 22, 
+"activo": true, 
+"ciudad": "Valencia"
+}
+
+Objetivo: practicar la sintaxis básica de JSON.

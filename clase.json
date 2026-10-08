@@ -1,0 +1,16 @@
+{
+    "alumnos": [
+        {
+            "nombre": "Juan Jose Matinez",
+            "edad": 20
+        },
+        {
+            "nombre": "Maria Garcia",
+            "edad": 22
+        },
+        {
+            "nombre": "Carlos Lopez",
+            "edad": 21
+        }
+    ]
+}

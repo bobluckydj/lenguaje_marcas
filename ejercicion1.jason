@@ -1,4 +1,5 @@
 {
-    "nombre" : "Jose",
-    "apellido" : Bolekia
+    "nombre" : "Ana",
+    "edad" : 25,
+    "ciudad" : "Madrid"
 }

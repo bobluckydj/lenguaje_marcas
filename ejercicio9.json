@@ -1,0 +1,9 @@
+{
+    "nombre": "Juan Jose Matinez",
+    "edad": 20,
+    "direccion": {
+        "calle": "Calle Falsa",
+        "ciudad": "Madrid",
+        "codigo_postal": "28080"
+    }
+}
