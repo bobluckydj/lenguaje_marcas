@@ -1,0 +1,29 @@
+{
+    "productos": [
+        {
+            "nombre": "Zapatos de cuero",
+            "precio": 79.99,
+            "categoria": "Calzado",
+            "disponible": true
+        },
+        {
+            "nombre": "Camiseta de algodón",
+            "precio": 19.99,
+            "categoria": "Ropa",
+            "disponible": true
+        },
+        {
+            "nombre": "Pantalones vaqueros",
+            "precio": 49.99,
+            "categoria": "Ropa",
+            "disponible": false
+        },
+        {
+            "nombre": "Bolso de mano",
+            "precio": 39.99,
+            "categoria": "Accesorios",
+            "disponible": true
+        }
+   
+    ]
+}

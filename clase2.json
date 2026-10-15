@@ -1,0 +1,24 @@
+{
+    "alumnos": [
+        {
+            "nombre": "Juan Jose Matinez",
+            "edad": 20,
+            "aprobado": true
+        },
+        {
+            "nombre": "Maria Garcia",
+            "edad": 22,
+            "aprobado": false
+        },
+        {
+            "nombre": "Carlos Lopez",
+            "edad": 21,
+            "aprobado": false
+        },
+        {
+            "nombre": "Ana Torres",
+            "edad": 19,
+            "aprobado": true
+        }
+    ]
+}

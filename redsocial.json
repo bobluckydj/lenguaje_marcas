@@ -1,0 +1,144 @@
+{
+    "redsocial": {
+        "usuarios": [
+            {
+                "id": 123,
+                "usuario": "Juan Pérez",
+                "perfil": {
+                    "bio": "Apasionado por la tecnología y la programación.",
+                    "ubicacion": "Madrid, España",
+                    "verificado": true
+                },
+                "siguiendo": [
+                    345,
+                    567
+                ]
+            },
+            {
+                "id": 345,
+                "usuario": "Ana Gómez",
+                "perfil": {
+                    "bio": "Amante de la naturaleza y el senderismo.",
+                    "ubicacion": "Barcelona, España",
+                    "verificado": false
+                },
+                "siguiendo": [
+                    123,
+                    567
+                ]
+            },
+            {
+                "id": 567,
+                "usuario": "Carlos López",
+                "perfil": {
+                    "bio": "Estudiante de informática y entusiasta de los videojuegos.",
+                    "ubicacion": "Valencia, España",
+                    "verificado": true
+                },
+                "siguiendo": [
+                    123,
+                    345
+                ]
+            }
+        ],
+        "publicaciones": [
+            {
+                "id": 1,
+                "autor_id": 123,
+                "texto": "¡Hola a todos! Estoy emocionado de compartir mi primer proyecto de programación.",
+                "fecha": "2024-01-15T10:30:00",
+                "reacciones": {
+                    "me_gusta": 15,
+                    "risas": 5,
+                    "sorpesas": 2
+                },
+                "hashtags": [
+                    "#programación",
+                    "#proyecto",
+                    "#tecnología"
+                ]
+            },
+            {
+                "id": 2,
+                "autor_id": 345,
+                "texto": "Disfrutando de un hermoso día de senderismo en las montañas.",
+                "fecha": "2024-01-16T14:45:00",
+                "reacciones": {
+                    "me_gusta": 20,
+                    "risas": 3,
+                    "sorpesas": 1
+                },
+                "hashtags": []
+            },
+            {
+                "id": 3,
+                "autor_id": 567,
+                "texto": "Estoy aprendiendo a programar en Python.",
+                "fecha": "2024-01-17T09:00:00",
+                "reacciones": {
+                    "me_gusta": 10,
+                    "risas": 2,
+                    "sorpesas": 1
+                },
+                "hashtags": [
+                    "#python",
+                    "#programación",
+                    "#aprendizaje"
+                ]
+            },
+            {
+                "id": 4,
+                "autor_id": 123,
+                "texto": "¡Acabo de terminar un proyecto de programación!",
+                "fecha": "2024-01-18T10:00:00",
+                "reacciones": {
+                    "me_gusta": 25,
+                    "risas": 8,
+                    "sorpesas": 3
+                },
+                "hashtags": [
+                    "#programación",
+                    "#proyecto",
+                    "#logro"
+                ]
+            }
+        ],
+        "comentarios": [
+            {
+                "id": 112,
+                "publiacion_id": 1,
+                "autori_id": 345,
+                "texto": "¡Felicidades!",
+                "editado": false
+            },
+            {
+                "id": 113,
+                "publiacion_id": 2,
+                "autori_id": 567,
+                "texto": "Que hermosos el paisaje.",
+                "editado": false
+            },
+            {
+                "id": 114,
+                "publiacion_id": 3,
+                "autori_id": 123,
+                "texto": "¡Qué bien! Python es un lenguaje muy versátil.",
+                "editado": false
+            },
+            {
+                "id": 115,
+                "publiacion_id": 4,
+                "autori_id": 567,
+                "texto": "¡Enhorabuena! Me encantaría ver tu proyecto.",
+                "editado": false
+            },
+            {
+                "id": 116,
+                "publiacion_id": 1,
+                "autori_id": 567,
+                "texto": "¡Felicidades. Que envidia!.",
+                "editado": false
+            }
+        ]
+    }
+}

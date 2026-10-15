@@ -1,0 +1,24 @@
+{
+    "nombre": "Camina con estilo",
+    "direccion":{
+        "calle": "Calle de la Moda, 123",
+        "ciudad": "Madrid"
+        },
+    "productos": [
+        {
+            "nombre": "Zapatos de cuero",
+            "precio": 79.99,
+            "disponible": true
+        },
+        {
+            "nombre": "Bolso de mano",
+            "precio": 49.99,
+            "disponible": true
+        },
+        {
+            "nombre": "Cinturón de piel",
+            "precio": 29.99,
+            "disponible": false
+        }
+    ]
+}

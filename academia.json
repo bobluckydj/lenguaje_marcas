@@ -1,0 +1,180 @@
+{
+    "nombre": "Atrespatas",
+    "fundacion": 1995,
+    "sede": {
+        "ciudad": "Madrid",
+        "pais": "España",
+        "coordinadas": {
+            "latitud": 40.4168,
+            "longitud": -3.7038
+        }
+    },
+    "cursos": [
+        {
+            "codigo": "CS101",
+            "titulo": "Introducción a la programación",
+            "profesor": {
+                "nombre": "Dr. Juan Pérez",
+                "especialidades": [
+                    "Ciencias de la Computación",
+                    "Inteligencia Artificial"
+                ],
+                "contacto": {
+                    "email": "Juan.perez@larumba.com",
+                    "telefono": "+34 912 345 678"
+                }
+            },
+            "horario": {
+                "dias": [
+                    "Lunes",
+                    "Miércoles",
+                    "Viernes"
+                ],
+                "hora_inicio": "10:00",
+                "hora_fin": "12:00"
+            },
+            "alumnos": [
+                {
+                    "nombre": "Ana García",
+                    "activo": true,
+                    "notas": {
+                        "examen1": 85,
+                        "examen2": 90,
+                        "proyecto": 95
+                    },
+                    "nota_final": 90
+                },
+                {
+                    "nombre": "Luis Fernández",
+                    "activo": false,
+                    "notas": {
+                        "examen1": 70,
+                        "examen2": 75,
+                        "proyecto": 80
+                    },
+                    "nota_final": 75
+                },
+                {
+                    "nombre": "María López",
+                    "activo": true,
+                    "notas": {
+                        "examen1": 95,
+                        "examen2": 100,
+                        "proyecto": 90
+                    },
+                    "nota_final": null
+                }
+            ]
+        },
+        {
+            "codigo": "CS102",
+            "titulo": "Estructuras de datos",
+            "profesor": {
+                "nombre": "Dr. María Rodríguez",
+                "especialidades": [
+                    "Ingeniería de Software",
+                    "Algoritmos"
+                ],
+                "contacto": {
+                    "email": "María.rodriguez@larumba.com",
+                    "telefono": "+34 912 345 679"
+                }
+            },
+            "horario": {
+                "dias": [
+                    "Martes",
+                    "Jueves"
+                ],
+                "hora_inicio": "14:00",
+                "hora_fin": "16:00"
+            },
+            "alumnos": [
+                {
+                    "nombre": "Carlos Sánchez",
+                    "activo": true,
+                    "notas": {
+                        "examen1": 88,
+                        "examen2": 92,
+                        "proyecto": 85
+                    },
+                    "nota_final": 90
+                },
+                {
+                    "nombre": "Laura Martínez",
+                    "activo": true,
+                    "notas": {
+                        "examen1": 78,
+                        "examen2": 82,
+                        "proyecto": 80
+                    },
+                    "nota_final": 80
+                },
+                {
+                    "nombre": "David Gómez",
+                    "activo": false,
+                    "notas": {
+                        "examen1": 65,
+                        "examen2": 70,
+                        "proyecto": 75
+                    },
+                    "nota_final": null
+                }
+            ]
+        },
+        {
+            "codigo": "CS103",
+            "titulo": "Bases de datos",
+            "profesor": {
+                "nombre": "Dr. José Martínez",
+                "especialidades": [
+                    "Bases de datos",
+                    "Sistemas de información"
+                ],
+                "contacto": {
+                    "email": "José.martínez@larumba.com",
+                    "telefono": "+34 912 345 680"
+                }
+            },
+            "horario": {
+                "dias": [
+                    "Miércoles",
+                    "Viernes"
+                ],
+                "hora_inicio": "10:00",
+                "hora_fin": "12:00"
+            },
+            "alumnos": [
+                {
+                    "nombre": "Ana García",
+                    "activo": true,
+                    "notas": {
+                        "examen1": 90,
+                        "examen2": 85,
+                        "proyecto": 95
+                    },
+                    "nota_final": 90
+                },
+                {
+                    "nombre": "Pedro Ramírez",
+                    "activo": false,
+                    "notas": {
+                        "examen1": 75,
+                        "examen2": 80,
+                        "proyecto": 85
+                    },
+                    "nota_final": null
+                },
+                {
+                    "nombre": "Lucía Fernández",
+                    "activo": true,
+                    "notas": {
+                        "examen1": 95,
+                        "examen2": 100,
+                        "proyecto": 90
+                    },
+                    "nota_final": 95
+                }
+            ]
+        }
+    ]
+}

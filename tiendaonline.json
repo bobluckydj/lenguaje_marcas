@@ -1,0 +1,104 @@
+{
+    "nombre": "Camina con estilo",
+    "abierto": true,
+    "contacto": {
+        "telefono": "123-456-789",
+        "email": "caminaconestilo@larumba.com"
+    },
+    "categorias": [
+        {  
+            "id": 1,
+            "nombre": "Calzado",
+            "productos": [
+                {
+                    "sku": 1,
+                    "nombre": "Zapatos de cuero",
+                    "precio": 79.99,
+                    "stock": 10,
+                    "etiquetas": ["cuero", "formal", "hombre"],
+                    "dimensiones": {
+                        "alto": 10,
+                        "ancho": 30,
+                        "fondo": 20
+                    },
+                    "disponible": true
+                },
+                {
+                    "sku": 2,
+                    "nombre": "Botas de montaña",
+                    "precio": 120.00,
+                    "stock": 5,
+                    "etiquetas": ["montaña", "hombre", "resistente"],
+                    "dimensiones": {
+                        "alto": 25,
+                        "ancho": 35,
+                        "fondo": 25
+                    },
+                    "disponible": true
+                }
+            ]
+        },
+        {"id": 2,
+        "nombre": "Ropa",
+        "productos": [
+                {
+                    "sku": 3,
+                    "nombre": "Camiseta de algodón",
+                    "precio": 19.99,
+                    "stock": 20,
+                    "etiquetas": ["algodón", "casual", "unisex"],
+                    "dimensiones": {
+                        "alto": 2,
+                        "ancho": 30,
+                        "fondo": 20
+                    },
+                    "disponible": true
+                },
+                {
+                    "sku": 4,
+                    "nombre": "Pantalones vaqueros",
+                    "precio": 49.99,
+                    "stock": 0,
+                    "etiquetas": ["vaqueros", "casual", "hombre"],
+                    "dimensiones": {
+                        "alto": 5,
+                        "ancho": 40,
+                        "fondo": 30
+                    },
+                    "disponible": false
+                }
+            ]
+    },
+        {"id": 3,
+        "nombre": "Accesorios",
+        "productos": [
+                {
+                    "sku": 5,
+                    "nombre": "Bolso de mano",
+                    "precio": 39.99,
+                    "stock": 15,
+                    "etiquetas": ["bolso", "mujer", "cuero"],
+                    "dimensiones": {
+                        "alto": 20,
+                        "ancho": 30,
+                        "fondo": 10
+                    },
+                    "disponible": true
+                },
+                {
+                    "sku": 6,
+                    "nombre": "Cinturón de piel",
+                    "precio": 29.99,
+                    "stock": 0,
+                    "etiquetas": ["cinturón", "hombre", "piel"],
+                    "dimensiones": {
+                        "alto": 2,
+                        "ancho": 100,
+                        "fondo": 0.5
+                    },
+                    "disponible": false
+                }
+            ]
+        }
+    ]
+}

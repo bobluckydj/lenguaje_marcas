@@ -1,0 +1,18 @@
+{"peliculas": [
+        {
+            "titulo": "Inception",
+            "director": "Christopher Nolan",
+            "año": 2010
+        },
+        {
+            "titulo": "The Godfather",
+            "director": "Francis Ford Coppola",
+            "año": 1972
+        },
+        {
+            "titulo": "Pulp Fiction",
+            "director": "Quentin Tarantino",
+            "año": 1994
+        }
+    ]
+}

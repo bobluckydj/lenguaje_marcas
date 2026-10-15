@@ -1,0 +1,44 @@
+{
+    "pedidos": [
+        {
+            "numero": 1,
+            "cliente":{ "nombre": "Juan Pérez", "email": "juan.perez@larumba.com"},
+            "direccion": 
+            {
+                "calle": "Calle Mayor, 45",
+                "ciudad": "Madrid",
+                    "codigo_postal": "28013"
+                },
+            "producto": "Zapatos de cuero",
+            "cantidad": 2,
+            "entregado": true
+        },
+        {
+            "numero": 2,
+            "cliente":{ "nombre": "María López", "email": "maria.lopez@larumba.com"},
+                "direccion": 
+                {
+                    "calle": "Avenida Principal, 123",
+                    "ciudad": "Barcelona",
+                    "codigo_postal": "08014"
+                },
+            "producto": "Camiseta de algodón",
+            "cantidad": 3,
+            "entregado": false
+        },
+        {
+            "numero": 3,
+            "cliente":{ "nombre": "Carlos García", "email": "carlos.garcia@larumba.com"},
+
+                "direccion": 
+                {
+                    "calle": "Calle Secundaria, 789",
+                    "ciudad": "Valencia",
+                    "codigo_postal": "46020"
+                },
+            "producto": "Pantalones de vaqueros",
+            "cantidad": 1,
+            "entregado": false
+        }
+    ]
+}
